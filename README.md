@@ -1,4 +1,5 @@
-![Logo](https://drive.google.com/file/d/1h9LCrVh5jMevXS-sCpmAOVcs7RiMS60a/view?usp=sharing)
+
+![Banner GitHub](https://drive.google.com/uc?export=view&id=1h9LCrVh5jMevXS-sCpmAOVcs7RiMS60a)
 
 ## 🚀 About Me
 Hi there 👋. I am Yoanna, a passionate Product Manager and UX Leader with over 6 years of experience in digital product development. 
